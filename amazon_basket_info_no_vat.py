@@ -22,8 +22,8 @@ delay = 5
 driver.get("https://www.amazon.co.uk/")
 
 ## Set up details
-email = "jake.burroughs@freshcut.biz"
-password = "Flowers123"
+email = ""
+password = ""
 item_list = []
 quantity_list = []
 price_list_nc = [] #Not calculated
